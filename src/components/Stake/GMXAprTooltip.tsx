@@ -17,7 +17,7 @@ export default function GMXAprTooltip({ processedData, nativeTokenSymbol }: Prop
   return (
     <>
       <StatsTooltipRow
-        label="Escrowed GMX APR"
+        label="Escrowed JK APR"
         showDollar={false}
         value={`${formatKeyAmount(processedData, "gmxAprForEsGmx", 2, 2, true)}%`}
       />

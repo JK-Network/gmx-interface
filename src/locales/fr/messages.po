@@ -248,7 +248,7 @@ msgstr ""
 
 #: src/pages/BeginAccountTransfer/BeginAccountTransfer.js
 #: src/pages/Stake/StakeV2.js
-msgid "Approve GMX"
+msgid "Approve JK"
 msgstr ""
 
 #: src/components/Exchange/PositionEditor.js
@@ -264,7 +264,7 @@ msgid "Approve {stakingTokenSymbol}"
 msgstr ""
 
 #: src/pages/Stake/StakeV2.js
-msgid "Approving GMX..."
+msgid "Approving JK..."
 msgstr ""
 
 #: src/components/Exchange/PositionEditor.js

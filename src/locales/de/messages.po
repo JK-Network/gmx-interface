@@ -42,19 +42,19 @@ msgid "<0/>Profit price: {0} ${1}. This rule applies for the next {2}, until {3}
 msgstr ""
 
 #: src/App/App.js
-msgid "<0>Install Coinbase Wallet</0> to start using GMX"
+msgid "<0>Install Coinbase Wallet</0> to start using JK"
 msgstr ""
 
 #: src/App/App.js
-msgid "<0>Install Coinbase Wallet</0>, and use GMX with its built-in browser"
+msgid "<0>Install Coinbase Wallet</0>, and use JK with its built-in browser"
 msgstr ""
 
 #: src/App/App.js
-msgid "<0>Install MetaMask</0> to start using GMX"
+msgid "<0>Install MetaMask</0> to start using JK"
 msgstr ""
 
 #: src/App/App.js
-msgid "<0>Install MetaMask</0>, and use GMX with its built-in browser"
+msgid "<0>Install MetaMask</0>, and use JK with its built-in browser"
 msgstr ""
 
 #: src/components/Exchange/OrdersToa.js
@@ -74,7 +74,7 @@ msgid "<0>The pool's capacity has been reached for {0}. Please use another token
 msgstr ""
 
 #: src/pages/Stake/StakeV2.js
-msgid "<0>This will withdraw and unreserve all tokens as well as pause vesting.<1/><2/>esGMX tokens that have been converted to GMX will remain as GMX tokens.<3/><4/>To claim GMX tokens without withdrawing, use the \"Claim\" button under the Total Rewards section.<5/><6/></0>"
+msgid "<0>This will withdraw and unreserve all tokens as well as pause vesting.<1/><2/>esJK tokens that have been converted to JK will remain as JK tokens.<3/><4/>To claim JK tokens without withdrawing, use the \"Claim\" button under the Total Rewards section.<5/><6/></0>"
 msgstr ""
 
 #: src/lib/wallets/index.tsx
@@ -178,7 +178,7 @@ msgid "Affiliates"
 msgstr ""
 
 #: src/pages/ClaimEsGmx/ClaimEsGmx.js
-msgid "After claiming you will be able to vest a maximum of {0} esGMX at a ratio of {1} {stakingToken} to 1 esGMX."
+msgid "After claiming you will be able to vest a maximum of {0} esJK at a ratio of {1} {stakingToken} to 1 esJK."
 msgstr ""
 
 #: src/pages/ClaimEsGmx/ClaimEsGmx.js
@@ -248,7 +248,7 @@ msgstr ""
 
 #: src/pages/BeginAccountTransfer/BeginAccountTransfer.js
 #: src/pages/Stake/StakeV2.js
-msgid "Approve GMX"
+msgid "Approve JK"
 msgstr ""
 
 #: src/components/Exchange/PositionEditor.js
@@ -264,7 +264,7 @@ msgid "Approve {stakingTokenSymbol}"
 msgstr ""
 
 #: src/pages/Stake/StakeV2.js
-msgid "Approving GMX..."
+msgid "Approving JK..."
 msgstr ""
 
 #: src/components/Exchange/PositionEditor.js
@@ -302,7 +302,7 @@ msgid "Assets Under Management"
 msgstr ""
 
 #: src/pages/Dashboard/DashboardV2.js
-msgid "Assets Under Management: GMX staked (All chains) + GLP pool ({chainName})"
+msgid "Assets Under Management: JK staked (All chains) + GLP pool ({chainName})"
 msgstr ""
 
 #: src/components/Glp/GlpSwap.js
@@ -349,7 +349,7 @@ msgid "Avalanche Icon"
 msgstr ""
 
 #: src/pages/BuyGMX/BuyGMX.js
-msgid "Avax is needed on Avalanche to purchase GMX."
+msgid "Avax is needed on Avalanche to purchase JK."
 msgstr ""
 
 #: src/components/Exchange/SwapBox.js
@@ -458,7 +458,7 @@ msgid "Buy GMX Bonds"
 msgstr ""
 
 #: src/pages/Buy/Buy.js
-msgid "Buy GMX or GLP"
+msgid "Buy JK or GLP"
 msgstr ""
 
 #: src/components/Glp/GlpSwap.js
@@ -2839,15 +2839,15 @@ msgid "Stake"
 msgstr ""
 
 #: src/pages/Stake/StakeV2.js
-msgid "Stake <0>GMX</0> and <1>GLP</1> to earn rewards."
+msgid "Stake <0>JK</0> and <1>GLP</1> to earn rewards."
 msgstr ""
 
 #: src/pages/Stake/StakeV2.js
-msgid "Stake GMX"
+msgid "Stake JK"
 msgstr ""
 
 #: src/pages/Stake/StakeV2.js
-msgid "Stake GMX Rewards"
+msgid "Stake JK Rewards"
 msgstr ""
 
 #: src/pages/Stake/StakeV2.js
@@ -2855,11 +2855,11 @@ msgid "Stake Multiplier Points"
 msgstr ""
 
 #: src/pages/Stake/StakeV2.js
-msgid "Stake esGMX"
+msgid "Stake esJK"
 msgstr ""
 
 #: src/pages/Stake/StakeV2.js
-msgid "Stake esGMX Rewards"
+msgid "Stake esJK Rewards"
 msgstr ""
 
 #: src/pages/Stake/StakeV1.js
